@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="10.10.26 самостійна/10.10.26 самостійна.vcxproj" />
+</Solution>
